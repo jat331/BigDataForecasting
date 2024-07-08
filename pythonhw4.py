@@ -6,6 +6,8 @@ Created on Tue Feb 13 14:55:31 2024
 @author: jamesturner
 """
 
+# Human Resources attrition prediction
+
 # Import necessary libraries
 import pandas as pd
 from sklearn.model_selection import train_test_split
