@@ -5,6 +5,8 @@ Created on Thu Jan 25 18:21:46 2024
 
 @author: jamesturner
 """
+# Wine Quality Prediction 
+
 
 import pandas as pd
 import numpy as np
