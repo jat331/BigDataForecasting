@@ -6,6 +6,8 @@ Created on Mon Feb 12 11:20:55 2024
 @author: jamesturner
 """
 
+# Titanic Survival
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier, export_graphviz
